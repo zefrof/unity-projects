@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/c# Scripts/EnemyAttack.cs">
+    <Files>
+      <File FileName="Assets/c# Scripts/Mob.cs" Line="11" Column="22" />
+      <File FileName="Assets/c# Scripts/Targetting.cs" Line="95" Column="1" />
+      <File FileName="Assets/c# Scripts/Character Classes/BaseCharacter.cs" Line="91" Column="17" />
+      <File FileName="Assets/c# Scripts/EnemyAI.cs" Line="15" Column="2" />
+      <File FileName="Assets/c# Scripts/EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/c# Scripts/EnemyHealth.cs" Line="6" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="c# Scripts" expanded="True">
+                <Node name="EnemyAttack.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
