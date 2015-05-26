@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Battle Hero\Scripts\BattleHero.cs">
+    <Files>
+      <File FileName="Assets\Battle Hero\Scripts\BattleHero.cs" Line="202" Column="2" />
+      <File FileName="Assets\Battle Hero\Scripts\BattleHero.cs" Line="162" Column="6" />
+      <File FileName="Assets\Enemies\Level 4\WaspAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enemies\Level 5\antlerfrogAI.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

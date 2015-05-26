@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 0802e78c2ce3ae348ba04d24781ef4db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monster sprites 1_0
+    21300002: monster sprites 1_1
+    21300004: monster sprites 1_2
+    21300006: monster sprites 1_3
+    21300008: monster sprites 1_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: monster sprites 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 510
+        height: 544
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster sprites 1_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 139
+        width: 519
+        height: 514
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster sprites 1_2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 108
+        width: 509
+        height: 499
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster sprites 1_3
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 67
+        width: 525
+        height: 540
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monster sprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 52
+        width: 561
+        height: 550
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
