@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: a739ae08b8eb6b543ad359d018d37f76
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bracket
+    100002: bracket 1
+    100004: bracket 2
+    100006: bracket 3
+    100008: bracket 4
+    100010: bracket 5
+    100012: bracket 6
+    100014: bracket 7
+    100016: bracket 8
+    100018: ID101
+    100020: ID107
+    100022: ID115
+    100024: ID121
+    100026: ID129
+    100028: ID135
+    100030: ID141
+    100032: ID147
+    100034: ID153
+    100036: ID159
+    100038: ID167
+    100040: ID173
+    100042: ID179
+    100044: ID185
+    100046: ID35
+    100048: ID41
+    100050: ID54
+    100052: ID60
+    100054: ID68
+    100056: ID81
+    100058: ID87
+    100060: ID95
+    100062: instance_0
+    100064: instance_1
+    100066: instance_2
+    100068: instance_3
+    100070: instance_4
+    100072: instance_5
+    100074: instance_6
+    100076: instance_7
+    100078: instance_8
+    100080: instance_9
+    100082: rack_shelf
+    100084: //RootNode
+    400000: bracket
+    400002: bracket 1
+    400004: bracket 2
+    400006: bracket 3
+    400008: bracket 4
+    400010: bracket 5
+    400012: bracket 6
+    400014: bracket 7
+    400016: bracket 8
+    400018: ID101
+    400020: ID107
+    400022: ID115
+    400024: ID121
+    400026: ID129
+    400028: ID135
+    400030: ID141
+    400032: ID147
+    400034: ID153
+    400036: ID159
+    400038: ID167
+    400040: ID173
+    400042: ID179
+    400044: ID185
+    400046: ID35
+    400048: ID41
+    400050: ID54
+    400052: ID60
+    400054: ID68
+    400056: ID81
+    400058: ID87
+    400060: ID95
+    400062: instance_0
+    400064: instance_1
+    400066: instance_2
+    400068: instance_3
+    400070: instance_4
+    400072: instance_5
+    400074: instance_6
+    400076: instance_7
+    400078: instance_8
+    400080: instance_9
+    400082: rack_shelf
+    400084: //RootNode
+    2300000: bracket
+    2300002: bracket 1
+    2300004: bracket 2
+    2300006: bracket 3
+    2300008: bracket 4
+    2300010: bracket 5
+    2300012: bracket 6
+    2300014: bracket 7
+    2300016: bracket 8
+    2300018: ID101
+    2300020: ID107
+    2300022: ID115
+    2300024: ID121
+    2300026: ID129
+    2300028: ID135
+    2300030: ID141
+    2300032: ID147
+    2300034: ID153
+    2300036: ID159
+    2300038: ID167
+    2300040: ID173
+    2300042: ID35
+    2300044: ID41
+    2300046: ID54
+    2300048: ID60
+    2300050: ID68
+    2300052: ID81
+    2300054: ID87
+    2300056: ID95
+    2300058: rack_shelf
+    3300000: bracket
+    3300002: bracket 1
+    3300004: bracket 2
+    3300006: bracket 3
+    3300008: bracket 4
+    3300010: bracket 5
+    3300012: bracket 6
+    3300014: bracket 7
+    3300016: bracket 8
+    3300018: ID101
+    3300020: ID107
+    3300022: ID115
+    3300024: ID121
+    3300026: ID129
+    3300028: ID135
+    3300030: ID141
+    3300032: ID147
+    3300034: ID153
+    3300036: ID159
+    3300038: ID167
+    3300040: ID173
+    3300042: ID35
+    3300044: ID41
+    3300046: ID54
+    3300048: ID60
+    3300050: ID68
+    3300052: ID81
+    3300054: ID87
+    3300056: ID95
+    3300058: rack_shelf
+    4300000: rack_shelf
+    4300002: ID35
+    4300004: ID41
+    4300006: ID54
+    4300008: ID60
+    4300010: ID68
+    4300012: ID81
+    4300014: ID87
+    4300016: ID95
+    4300018: ID101
+    4300020: ID107
+    4300022: ID115
+    4300024: ID121
+    4300026: ID129
+    4300028: ID135
+    4300030: ID141
+    4300032: ID147
+    4300034: ID153
+    4300036: ID159
+    4300038: ID167
+    4300040: ID173
+    4300042: bracket
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
